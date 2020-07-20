@@ -3,7 +3,7 @@
 In this project we applied machine-learning to predicting the prices of bulldozers using time-series data.
 
 The project involved the following:
-- Preprocessing the data, including:
+- preprocessing the data, including:
     - parsing dates;
     - dealing with non-numeric features;
     - filling in missing data;

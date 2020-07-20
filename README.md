@@ -7,7 +7,7 @@ The project involved the following:
     - parsing dates;
     - dealing with non-numeric features;
     - filling in missing data;
-- modelling the data, more specifically training a random forest regressor;
+- modelling the data, more specifically training a *random forest regressor*;
 - tuning its hyperparameters;
 - evaluating (with RMSLE);
 - making predictions with tuned model on test data;
